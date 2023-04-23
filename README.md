@@ -3,6 +3,9 @@
 - SPA
 - JSX
 - Elements
-- immutable
+- Immutable
 - Component
 - Props
+- State
+- Lifecycle
+- Strict mode
