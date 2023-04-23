@@ -4,3 +4,5 @@
 - JSX
 - Elements
 - immutable
+- Component
+- Props
