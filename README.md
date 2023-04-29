@@ -9,3 +9,4 @@
 - State
 - Lifecycle
 - Strict mode
+- Hooks
