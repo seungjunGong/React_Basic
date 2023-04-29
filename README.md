@@ -10,3 +10,4 @@
 - Lifecycle
 - Strict mode
 - Hooks
+- Event
