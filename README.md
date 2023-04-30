@@ -16,3 +16,4 @@
 - Forms
 - Shared State
 - Composition(Containment, Specialization)
+- Context
