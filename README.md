@@ -15,3 +15,4 @@
 - List && Keys
 - Forms
 - Shared State
+- Composition(Containment, Specialization)
