@@ -17,3 +17,6 @@
 - Shared State
 - Composition(Containment, Specialization)
 - Context
+- Css selector, Layout
+- styled-components
+- react-router-dom
